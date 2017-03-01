@@ -8,3 +8,4 @@
 2、访问和修改PX4 Flight Stack和PX4中间件
 3、在Snapdragon Flight，Pixhawk和Pixfalcon上部署PX4
 
+## 初始配置
